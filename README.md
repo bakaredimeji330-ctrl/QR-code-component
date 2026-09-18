@@ -21,7 +21,7 @@ This is repository containing a QR code component solution
 ### Links
 
 - Solution URL: [github repo](https://github.com/bakaredimeji330-ctrl/QR-code-component)
-- Live Site URL: 
+- Live Site URL: [live site](https://bakaredimeji330-ctrl.github.io/QR-code-component/)
 
 ## My process
 I completed ther challenge by following the guides provided with a little bit of assistance from Gemini AI
